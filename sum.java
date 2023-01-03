@@ -6,6 +6,6 @@ class sum
         int b=7;
         int sum=a+b;
         System.out.print(b);
-        System.out.print(sum);
+        System.out.print(a);
     }
 }
